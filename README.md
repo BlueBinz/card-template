@@ -1,3 +1,3 @@
-# P03_GerunganAndrew_README
+# card-template
 The GitHub repo can be found here:  
 https://github.com/BlueBinz/card-template.git
