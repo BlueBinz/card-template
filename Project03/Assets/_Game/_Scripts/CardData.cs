@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewCardData", menuName = "CardData/Card")]
 public class CardData : ScriptableObject
 {
     [Header("General Info")]
@@ -15,8 +14,7 @@ public class CardData : ScriptableObject
 
     [Header("Stats")]
     [SerializeField] [Range(1, 9)] private int _cost;
-    [SerializeField] private int _atk;
-    [SerializeField] private int _def;
+
 
     //getters
     public string Name => _name;
@@ -24,6 +22,5 @@ public class CardData : ScriptableObject
     public string Text => _text;
     public string Flavor => _flavor;
     public int Cost => _cost;
-    public int Atk => _atk;
-    public int Def => _def;
+
 }

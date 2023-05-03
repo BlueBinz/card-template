@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80425ba4c72f364798c8304af426eeb, type: 3}
+  m_Name: Richard
+  m_EditorClassIdentifier: 
+  _name: Richard
+  _type: 1
+  _text: When I am played, give all other allies +1 Atk until the end of the turn.
+  _flavor: Richard is an inspiring presence on the battlefield.
+  _cost: 4
+  _atk: 2
+  _def: 4

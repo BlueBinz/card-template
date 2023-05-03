@@ -814,7 +814,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: cda8aea280d08b24d8af0b6426d34f9b, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -872,7 +872,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b726fa3765dceb488dff2bb481f3507, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _data: {fileID: 11400000, guid: 8ba35dff70d2c03498a556ad7a377e24, type: 2}
+  _unitMaterial: {fileID: 2100000, guid: cda8aea280d08b24d8af0b6426d34f9b, type: 2}
+  _spellMaterial: {fileID: 2100000, guid: bd9030d9a9bbc6e49bb23c2ea55579f1, type: 2}
+  _data: {fileID: 11400000, guid: 5534e09b7b46ad148b2ef7bfdcdf2673, type: 2}
   _cardTypeText: {fileID: 1029193829}
   _cardTextText: {fileID: 1637667917}
   _cardCostText: {fileID: 1296968229}
