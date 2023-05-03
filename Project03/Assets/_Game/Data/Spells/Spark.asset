@@ -14,7 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: Spark
   _type: 2
-  _text: Deal 1 damage to a unit.
   _flavor: Zip-zap! The spark flies where it pleases!
+  _text: Deal 1 damage to a unit.
+  _target: 1
+  _effectType: 1
   _cost: 2
   _spellDamage: 1

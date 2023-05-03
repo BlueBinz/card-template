@@ -3,5 +3,6 @@ The GitHub repo can be found here:
 https://github.com/BlueBinz/card-template.git  
   
 Other Notes:  
--Probably going to add at least built in OnPlay() method for the card script  
--Possibly going to add OnEvent() and Cont() methods for the possible card effects in the card script
+-Missing image implementation - still trying to figure out how I can make loading images modular from the scriptable object
+-Ideally want the scriptable object to be compatible with Excel
+-Next step is creating a modular deck system

@@ -67,6 +67,7 @@
     <Compile Include="Assets\_Game\_Scripts\Card.cs" />
     <Compile Include="Assets\_Game\_Scripts\CardData.cs" />
     <Compile Include="Assets\_Game\_Scripts\CardType.cs" />
+    <Compile Include="Assets\_Game\_Scripts\EffectType.cs" />
     <Compile Include="Assets\_Game\_Scripts\SpellData.cs" />
     <Compile Include="Assets\_Game\_Scripts\UnitData.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />

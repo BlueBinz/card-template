@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: Richard
   _type: 1
-  _text: When I am played, give all other allies +1 Atk until the end of the turn.
   _flavor: Richard is an inspiring presence on the battlefield.
+  _text: When I am played, give all other allies +1 Atk until the end of the turn.
+  _target: -1
+  _effectType: 1
   _cost: 4
   _atk: 2
   _def: 4
