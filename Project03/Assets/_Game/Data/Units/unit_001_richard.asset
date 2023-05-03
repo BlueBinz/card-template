@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac08c25a8995ce640ac8604930e0b371, type: 3}
+  m_Name: unit_001_richard
+  m_EditorClassIdentifier: 
+  _name: Richard
+  _type: 1
+  _text: When Richard enters the field, he gives all of his other allies +1 Atk until
+    the end of the turn.
+  _flavor: Richard encourages his allies through sheer willpower. It is said that
+    he has the tightest command of his soldiers.
+  _cost: 4
+  _atk: 2
+  _def: 4
