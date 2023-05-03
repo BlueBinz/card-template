@@ -874,7 +874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _unitMaterial: {fileID: 2100000, guid: cda8aea280d08b24d8af0b6426d34f9b, type: 2}
   _spellMaterial: {fileID: 2100000, guid: bd9030d9a9bbc6e49bb23c2ea55579f1, type: 2}
-  _data: {fileID: 11400000, guid: 5534e09b7b46ad148b2ef7bfdcdf2673, type: 2}
+  _data: {fileID: 11400000, guid: d9cf928ed26c3c545847f1acc66014a6, type: 2}
   _cardTypeText: {fileID: 1029193829}
   _cardTextText: {fileID: 1637667917}
   _cardCostText: {fileID: 1296968229}

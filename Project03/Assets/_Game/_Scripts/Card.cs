@@ -10,7 +10,7 @@ public class Card : MonoBehaviour
     [SerializeField] private Material _spellMaterial;
 
     [Header("Card Data")]
-    [SerializeField] private CardData _data;
+    [SerializeField] public CardData _data;
 
     //holds all of the text attributes
     [Header("Text Attributes")]
